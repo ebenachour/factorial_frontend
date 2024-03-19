@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a very simple frontend app that allow us to visualize and to add metrics.
+The frontend is connected to the backend by calling the APIs with axios.
+
+We didn't put any css.
 
 ## Available Scripts
 
